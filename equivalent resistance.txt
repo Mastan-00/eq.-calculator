@@ -1,0 +1,19 @@
+
+Type - Series
+ Resistor 1 - 1.0
+  Resistor 2 - 2.0
+  Resistor 3 - 2.0
+  Resistor 4 - 2.0
+ The total resistance of your cirut is 7.0 Ohms
+ -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Type - Parallel
+ Resistor 1 - 1.0
+  Resistor 2 - 0.5
+  Resistor 3 - 0.5
+  Resistor 4 - 0.5
+ The total resistance is 0.4 Ohms
+ -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Type - Parallel
+ Resistor 1 - 1.0
+ The total resistance is 1.0 Ohms
+ -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
